@@ -156,3 +156,11 @@ main {
 .task .actions .delete {
   color: crimson;
 }
+
+.task .actions .done {
+  color: green;
+}
+
+.task-done {
+  text-decoration: line-through;
+}
