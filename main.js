@@ -62,6 +62,7 @@ window.addEventListener("load", () => {
 
     taskDeleteElement.addEventListener("click", () => {
       listElement.removeChild(taskElement);
+      a;
     });
   });
 });
